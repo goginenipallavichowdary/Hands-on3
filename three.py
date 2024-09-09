@@ -46,9 +46,9 @@ plt.show()
 
 
 
-Fitted Quadratic Curve:             2
+'''Fitted Quadratic Curve:             2
 -1.835e-08 x + 1.266e-05 x - 0.0001285
 Upper Bound (Cubic Big-O):             3             2
 -4.867e-10 x + 5.539e-08 x + 9.661e-06 x - 0.0001027
 Lower Bound (Linear Big-Omega):  
-1.08e-05 x - 9.702e-05
+1.08e-05 x - 9.702e-05'''
