@@ -1,3 +1,5 @@
+#Will it effect your results from #1?
+
 def f1(n):
     x = 1
     for i in range(1, n+1):
