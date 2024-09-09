@@ -1,3 +1,5 @@
+# Will this increate how long it takes the algorithm to run (e.x. you are timing the function like in #2)?
+
 import time
 import numpy as np
 import matplotlib.pyplot as plt
