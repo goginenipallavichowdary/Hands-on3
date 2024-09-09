@@ -1,3 +1,5 @@
+#Implement merge sort, upload your code to github and show/test it on the array [5,2,4,7,1,3,2,6].
+
 def merge_sort(array):
     if len(array) > 1:
         middle = len(array) // 2
